@@ -59,5 +59,9 @@ sudo apt install snapd
 sudo snap install snapd
 sudo snap install code --classic
 
-# Jetbrains Toolbox es instalacion grafica
+sudo snap install pycharm-professional --classic
+
+# Componentes y cosas visuales
+
+
 ```
